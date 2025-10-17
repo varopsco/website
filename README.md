@@ -1,117 +1,37 @@
-# GROOVY MADE
+# VarOps
 
-[Website](https://groovymade.com) | [X/Twitter](https://x.com/intent/follow?screen_name=groovymade)
+### Engineering. Operations. Clarity.
 
-# Groovy Made  
-### A corporate umbrella for independent builders.
+[Website](https://varops.com) | [X/Twitter](https://x.com/intent/follow?screen_name=varopsco) | [LinkedIn](https://linkedin.com/company/varopsco)
 
-Groovy Made helps founders turn good ideas into real revenue. We take care of contracts, payments, admin, and taxes – so you can stay focused on building and getting paid, instead of on corporate drama.
 
-**[Apply →](mailto:hello@groovymade.com)**
+> [!IMPORTANT]
+> We build, integrate, and operate complex software systems, helping teams go from prototype to production cleanly, efficiently, and at scale. cleanly, efficiently, and at scale.
 
----
+Hi, We're VarOps 👋
 
-## 👋 Hey – thanks for dropping by
+We beleive that software should make complexity simple — not the other way around.
 
-If you’ve ever built a product, you know the feeling:
+We focus on clarity, maintainability, and long-term value, helping you scale sustainably and confidently.
 
-You’ve got the idea, the code, the IP – but then come the contracts, taxes, payments, refunds, and admin spread across three countries.  
-The stuff nobody talks about when you’re dreaming up your next big thing.
+Our team delivers high-quality engineering and operations for companies that need precision and speed without the overhead.
 
-We’ve lived that too.
+### How we work
 
-So we built **Groovy Made** – the back office for smart founders.
+1. **Discovery & architecture** — understanding your goals and designing a plan that fits.
+2. **Build & integrate** — full-stack development, automation, and system deployment.
+3. **Operate & evolve** — continuous support, monitoring, and iterative improvements.
 
-We handle everything behind the scenes so you can focus on what you do best: building and shipping.
+Every engagement is built around transparency, communication, and measurable outcomes.
 
-No equity drama.  
-No corporate clutter.  
-No messy spreadsheets.  
+### Get in touch
 
-Just clean, fair royalty payouts – and optional help with the extras when you need it.
+If you’re building something serious and need experienced hands to bring it to life — let’s talk.
 
----
-
-## 💼 What we do
-
-- Draft clear, royalty-based partnership agreements  
-- Register your project under our corporate umbrella  
-- Optionally act as Merchant of Record for digital sales  
-- Handle payments, refunds, taxes, and compliance  
-- Maintain separate P&L tracking for each project  
-- Pay creators quarterly – up to 80% of net receipts  
-- Offer optional add-ons like launch help, branding, or light advisory  
+**hi@varops.com**
 
 ---
 
-## 🎯 Who it’s for
+© VarOps LLC · All rights reserved.
 
-- Indie founders, solo builders, and tiny teams  
-- One-person plugins, AI experiments, small SaaS products  
-- Anyone who wants to launch and get paid – without the overhead  
-
----
-
-## ⚙️ How it works
-
-1. **Bring your idea** – if it’s real IP, we’ll help you wrap it properly  
-2. **We run the back office** – contracts, billing, admin, and taxes  
-3. **You get paid** – quarterly royalties with clear statements and clean separation between projects  
-
-Every project operates as its own royalty-bearing entity.  
-We manage the boring stuff – you keep control of your product and profits.  
-
----
-
-## 🔍 Why royalties?
-
-Sometimes you don’t need cofounders.  
-Sometimes you don’t want to split your equity pie.  
-Sometimes you just want a clean way to launch, share revenue, and stay independent.  
-
-**Royalties keep it simple.**  
-No dilution. No legal tangles. Just fair splits for real work.  
-
----
-
-## 🌍 Behind the scenes
-
-Groovy Made Ltd is a Hong Kong–registered company that provides compliant global operations for indie founders, digital creators, and micro-teams.  
-We act as the Merchant of Record and operational umbrella for the projects we host – helping builders stay lean, legal, and international from day one.
-
-Some projects eventually grow into standalone companies – and that’s exactly the point.
-
----
-
-## 🧩 Our background
-
-Groovy Made was founded by a group of builders, operators, and legal professionals with experience helping digital creators scale globally.  
-We understand how to keep projects clean, compliant, and profitable – without unnecessary complexity or overhead.
-
----
-
-## 🧾 Built-in benefits
-
-- Merchant of Record for your sales  
-- Global tax and compliance handled  
-- Hiring, contracting, accounting support  
-- Quarterly royalty statements you can trust  
-- Optional marketing, launch, or branding support  
-- No share dilution – you keep the upside  
-
----
-
-## 🧠 The Open Royalties model
-
-We believe creators should share in the value they help build.  
-Our framework is based on transparent, open royalty agreements – simple, fair, and flexible.  
-
-> [Read the Open Royalties Framework →](https://github.com/groovymade/open-royalties/blob/main/open-royalties-partnerships.md)
-
----
-
-## ✉️ Let’s build something groovy
-
-If you’ve got something worth shipping – and you’d rather spend your days building while we handle the back end – let’s talk.
-
-**hello@groovymade.com**
+> VarOps is a U.S. company with global partners, combining strong engineering with reliable operations to help founders and businesses move faster.
