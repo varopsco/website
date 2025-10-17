@@ -4,9 +4,8 @@
 
 [Website](https://varops.com) | [X/Twitter](https://x.com/intent/follow?screen_name=varopsco) | [LinkedIn](https://linkedin.com/company/varopsco)
 
-
 > [!IMPORTANT]
-> We build, integrate, and operate complex software systems, helping teams go from prototype to production cleanly, efficiently, and at scale. cleanly, efficiently, and at scale.
+> We build, integrate, and operate complex software systems, helping teams go from prototype to production cleanly, efficiently, and at scale.
 
 Hi, We're VarOps 👋
 
@@ -15,6 +14,8 @@ We beleive that software should make complexity simple — not the other way aro
 We focus on clarity, maintainability, and long-term value, helping you scale sustainably and confidently.
 
 Our team delivers high-quality engineering and operations for companies that need precision and speed without the overhead.
+
+Our clients range from early-stage startups to established technology teams.
 
 ### How we work
 
