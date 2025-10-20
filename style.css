@@ -120,7 +120,7 @@ mark {
   position: relative;
   display: grid;
   place-items: center;
-  margin: 0;
+  margin: 0 0 0 -2px;
   mask-image: url('data:image/svg+xml,<svg viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg"><path d="m0 100c0-88 12-100 100-100s100 12 100 100-12 100-100 100-100-12-100-100"/></svg>');
   mask-repeat: no-repeat;
   width: 64px;
@@ -175,7 +175,7 @@ footer a:hover svg {
 }
 #wrapper {
     width: 620px;
-    max-width: calc(100% - 2rem);
+    max-width: calc(100% - 4rem);
     margin: 0 auto;
     position: relative;
     padding-top: 4rem;
@@ -184,44 +184,18 @@ footer a:hover svg {
     -ms-transform: translateY(-50%);
     transform: translateY(-50%); */
 }
-
-.avatar {
-  border: 3px solid #1e215c;
-  border-radius: 50%;
-  width: 52px;
-  height: 52px;
-  overflow: hidden;
-  display: block;
+@media (max-width: 620px) {
+  body {
+    font-size: 18px;
+    line-height: 1.6;
+  }
+  h1 {
+    font-size: 28px;
+  }
+  h2, .lead-text {
+    font-size: 22px;
+  }
 }
-
-.avatar > div {
-  margin: 2px;
-  border-radius: 50%;
-  width: calc(100% - 4px);
-  height: calc(100% - 4px);
-  overflow: hidden;
-}
-.avatar > div > div:first-of-type {
-  background: #46b969;
-  height: 6%;
-  margin-top: 28%
-}
-.avatar > div > div:nth-of-type(2) {
-  background: #f9a916;
-  height: 9%;
-  margin-top: 1.5px;
-}
-.avatar > div > div:nth-of-type(3) {
-  background: #f95742;
-  height: 13%;
-  margin-top: 1.5px;
-}
-.avatar > div > div:last-of-type{
-  background: #0080fe;
-  height: 100%;
-  margin-top: 1.5px;
-}
-
 @media (prefers-color-scheme: dark) {
   html, body {
     background-color: #171414;
