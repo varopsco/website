@@ -175,7 +175,7 @@ footer a:hover svg {
 }
 #wrapper {
     width: 620px;
-    max-width: calc(100% - 4rem);
+    max-width: calc(100% - 3rem);
     margin: 0 auto;
     position: relative;
     padding-top: 4rem;
@@ -190,7 +190,7 @@ footer a:hover svg {
     line-height: 1.6;
   }
   h1 {
-    font-size: 28px;
+    font-size: 26px;
   }
   h2, .lead-text {
     font-size: 22px;
