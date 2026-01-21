@@ -23,6 +23,7 @@ time, mark, audio, video {
     vertical-align: baseline;
     box-sizing: border-box;
 
+    -webkit-font-smoothing: antialiased;
     -webkit-text-size-adjust: 100%;
     font-variant-ligatures: none;
     -webkit-font-variant-ligatures: none;
@@ -31,7 +32,7 @@ time, mark, audio, video {
 }
 html, body {
   height: 100%;
-  background: #f6f0e6
+  background: #f6f0e6;
 }
 /* HTML5 display-role reset for older browsers */
 article, aside, details, figcaption, figure,
@@ -80,6 +81,7 @@ body {
   font-weight: 500;
   color: #1e1b19;
   font-family: 'PT Serif', ui-serif, Georgia, Cambria, 'Times New Roman', Times, serif;
+  -webkit-font-smoothing: subpixel-antialiased;
 }
 hr {
   border: 0;
