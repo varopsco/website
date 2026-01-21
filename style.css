@@ -152,7 +152,7 @@ mark {
 }
 p {
     margin: 30px 0;
-    text-align: justify
+    text-align: justify;
 }
 a {
     transition: border .1s ease-in-out;
@@ -222,9 +222,14 @@ footer a:hover svg {
   }
   h1 {
     font-size: 26px;
+    text-wrap: pretty;
   }
   h2, .lead-text {
     font-size: 22px;
+    text-wrap: pretty;
+  }
+  p {
+    text-align: leftl
   }
 }
 @media (prefers-color-scheme: dark) {
