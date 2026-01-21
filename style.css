@@ -229,7 +229,7 @@ footer a:hover svg {
     text-wrap: pretty;
   }
   p {
-    text-align: leftl
+    text-align: left
   }
 }
 @media (prefers-color-scheme: dark) {
