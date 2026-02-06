@@ -4,7 +4,7 @@
 
 Working directly with founders and leadership teams to redesign operating systems, align organizations around them, and embed intelligence where decisions actually happen.
 
-[Let's talk](https://cal.com/varopsco/30min)
+[Book a consultation ($750/30min)](https://cal.com/varopsco/30min)
 
 ---
 
@@ -26,15 +26,17 @@ Execution is treated as a continuation of strategy, not a separate phase. Where 
 
 ## About us
 
-VarOps is led by [Ran Aroussi](https://linkedin.com/in/aroussi), a long-time builder and operator with deep experience designing and running production systems. Ran is the creator of widely used open-source software, with tens of millions of monthly downloads, and has spent decades working at the intersection of software, operations, and business design. He is also the author of [Production-Grade Agentic AI](https://amazon.com/dp/1919307826), drawing on real-world experience operating intelligent systems at scale.
+VarOps is led by [Ran Aroussi](https://linkedin.com/in/aroussi), a long-time builder and operator with deep experience designing and running production systems. Ran is the creator of widely used open-source software, with 45,000+ GitHub stars and tens of millions of monthly downloads, and has spent decades working at the intersection of software, operations, and business design. He is also the author of [Production-Grade Agentic AI](https://amazon.com/dp/1919307826), drawing on real-world experience operating intelligent systems at scale.
 
-The work is supported by a senior delivery team with experience executing complex technical and organizational change. Together, we focus on long-term clarity and leverage rather than short-term optimization or technology-led theater.
+The work is supported by [Automaze](https://automaze.io), our senior delivery team with experience executing complex technical and organizational change. Together, we focus on long-term clarity and leverage rather than short-term optimization or technology-led theater.
 
 ## Get in touch
 
 VarOps engages with a small number of companies at a time on challenges that sit at the core of how the business operates.
 
-If this resonates, [start a conversation](https://cal.com/varopsco/30min).
+If this resonates, [start a conversation](https://cal.com/varopsco/30min) or [send us an email](mailto:hi@varops.com).
+
+* Not ready to talk? [Subscribe to Ran's newsletter](https://aroussi.com/subscribe) for insights on production AI and systems thinking.
 
 ---
 
